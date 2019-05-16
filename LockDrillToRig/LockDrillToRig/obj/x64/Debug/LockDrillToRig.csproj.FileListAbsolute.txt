@@ -1,0 +1,2 @@
+C:\KrammerDevelopment\SpaceEngineers\LockDrillToRig\LockDrillToRig\obj\x64\Debug\LockDrillToRig.csprojAssemblyReference.cache
+C:\KrammerDevelopment\SpaceEngineers\LockDrillToRig\LockDrillToRig\obj\x64\Debug\LockDrillToRig.csproj.CoreCompileInputs.cache

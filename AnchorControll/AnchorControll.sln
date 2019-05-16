@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnchorControll", "AnchorControll\AnchorControll.csproj", "{BE773F29-4445-4EC7-90C3-3061F1F14606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE773F29-4445-4EC7-90C3-3061F1F14606}.Debug|x64.ActiveCfg = Debug|x64
+		{BE773F29-4445-4EC7-90C3-3061F1F14606}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B414436B-B35B-42A5-99C5-3629380E1D16}
+	EndGlobalSection
+EndGlobal
