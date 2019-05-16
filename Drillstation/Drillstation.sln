@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drillstation", "Drillstation\Drillstation.csproj", "{E5FE782F-FD04-45F6-8925-5E67CEAAE462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FE782F-FD04-45F6-8925-5E67CEAAE462}.Debug|x64.ActiveCfg = Debug|x64
+		{E5FE782F-FD04-45F6-8925-5E67CEAAE462}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CB5E1B-5EC8-429A-9AD8-345DCCABA1AD}
+	EndGlobalSection
+EndGlobal
